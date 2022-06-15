@@ -3,7 +3,7 @@
 	<name>Change Default Product Sort Order by quantity </name>
 	<version>1.0</version>
 	<author>SHAMSAN</author>
-	<code>change_default_product_sort_order_to_order_by_qty</code>
+	<code>change_default_product_sort_order_to_order_by_qty_journal_theme</code>
 	
 	  <file path="catalog/controller/product/{catalog,category,manufacturer,search}.php">
         <operation>
